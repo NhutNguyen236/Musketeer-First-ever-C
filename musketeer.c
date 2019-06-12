@@ -275,6 +275,8 @@ float calculate(int HP1, int HP2, int Q1, int Q2, int d){
 	}
 	return 0.0;
 }
+/*
+//This main part is unecessary but I created it to directly test the rest of the program.
 int main(){
 	int HP1, HP2, Q1, Q2, d;
 	//printf("Hey player!Enter your numbers: ");
@@ -282,3 +284,4 @@ int main(){
 	calculate(HP1,HP2,Q1,Q2,d);
 	return 0.0;
 }
+*/
